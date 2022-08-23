@@ -1,0 +1,15 @@
+C:\Users\Mostafa Abbasi\source\RezaBagheri\CircularQueue\bin\Debug\net6.0\CircularQueueWithArray.exe
+C:\Users\Mostafa Abbasi\source\RezaBagheri\CircularQueue\bin\Debug\net6.0\CircularQueueWithArray.deps.json
+C:\Users\Mostafa Abbasi\source\RezaBagheri\CircularQueue\bin\Debug\net6.0\CircularQueueWithArray.runtimeconfig.json
+C:\Users\Mostafa Abbasi\source\RezaBagheri\CircularQueue\bin\Debug\net6.0\CircularQueueWithArray.dll
+C:\Users\Mostafa Abbasi\source\RezaBagheri\CircularQueue\bin\Debug\net6.0\CircularQueueWithArray.pdb
+C:\Users\Mostafa Abbasi\source\RezaBagheri\CircularQueue\obj\Debug\net6.0\CircularQueueWithArray.csproj.AssemblyReference.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\CircularQueue\obj\Debug\net6.0\CircularQueueWithArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa Abbasi\source\RezaBagheri\CircularQueue\obj\Debug\net6.0\CircularQueueWithArray.AssemblyInfoInputs.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\CircularQueue\obj\Debug\net6.0\CircularQueueWithArray.AssemblyInfo.cs
+C:\Users\Mostafa Abbasi\source\RezaBagheri\CircularQueue\obj\Debug\net6.0\CircularQueueWithArray.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\CircularQueue\obj\Debug\net6.0\CircularQueueWithArray.dll
+C:\Users\Mostafa Abbasi\source\RezaBagheri\CircularQueue\obj\Debug\net6.0\refint\CircularQueueWithArray.dll
+C:\Users\Mostafa Abbasi\source\RezaBagheri\CircularQueue\obj\Debug\net6.0\CircularQueueWithArray.pdb
+C:\Users\Mostafa Abbasi\source\RezaBagheri\CircularQueue\obj\Debug\net6.0\CircularQueueWithArray.genruntimeconfig.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\CircularQueue\obj\Debug\net6.0\ref\CircularQueueWithArray.dll
